@@ -14,8 +14,10 @@ body {
   border-radius: 8px;
 }
 
-h1 {
+header {
   text-align: center;
+  margin-top: 5rem;
+  font-size: x-large;
 }
 
 .input-container {
@@ -29,7 +31,7 @@ input {
 }
 
 button {
-  background-color: #007bff;
+  background-color: #9ca4ac;
   color: #fff;
   padding: 8px;
   border: none;
@@ -43,8 +45,8 @@ ul {
 
 li {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content:space-between;
+  align-items:center;
   padding: 10px;
   border-bottom: 1px solid #ddd;
 }
